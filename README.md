@@ -1,4 +1,5 @@
-# emoji_use_analysis Which emoji is the most popular on the social networks? This program analyzes the frequency of using emoji on different platforms.
+# emoji_use_analysis 
+# Which emoji is the most popular on the social networks? This program analyzes the frequency of using emoji on different platforms.
 """
 Which emoji is the most popular on the social networks?
 This program analyzes the frequency of using emoji on
