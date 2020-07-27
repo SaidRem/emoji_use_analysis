@@ -1,6 +1,7 @@
 # emoji_use_analysis 
 # Which emoji is the most popular on the social networks? This program analyzes the frequency of using emoji on different platforms.
 """
+Emoji are ideograms and smileys used in electronic messages and web pages.
 Which emoji is the most popular on the social networks?
 This program analyzes the frequency of using emoji on
 different platforms.
